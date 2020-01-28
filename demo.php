@@ -54,7 +54,6 @@
 					<div class="triangle-up"></div>
 					<ul class="ulMenu">
 					  <li class="li-1">OVERVIEW</li>
-					  <li class="li-1">OVERVIEW</li>
 					  <li class="li-2">CSR</li>
 					  <li class="li-3">MEDIA</li>
 					</ul>    
